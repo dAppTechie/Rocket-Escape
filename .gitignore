@@ -47,3 +47,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 Assets/AtomRocket.meta
+
+Assets/AtomRocket
+Assets/BrokenVector
+Assets/Cartoon_Texture_pack
+Assets/Planets
+Assets/BrokenVector.meta
+Assets/Cartoon_Texture_Pack.meta
+Assets/Planets.meta
